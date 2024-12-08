@@ -1,6 +1,4 @@
-- pipeline: nurxrprhfe
-  events:
-  - type: PUSH
-    refs:
-    - refs/heads/master
-    - etfniomlkg
+- pipeline: fbcbyeyebo
+  on: SCHEDULE
+  start_date: 2024-12-08T19:33:07Z
+  delay: 1
